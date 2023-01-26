@@ -1,9 +1,10 @@
 import React from 'react'
+import Counter from './Counter'
 
 export default function app() {
   return (
     <div>
-      <h1>Hello Webpack! This is a quick start BoilerPlate</h1>
+      <Counter />
     </div>
   )
 }
