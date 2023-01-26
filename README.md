@@ -1,5 +1,5 @@
 # Webpack-React-Boilerplate
-Setting Up Webpack with React
+Setting Up Webpack with React!
 
 ## What we are using
 * Yarn
