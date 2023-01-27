@@ -1,15 +1,8 @@
 {
-<<<<<<< HEAD
   "name": "react-hooks",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:johnsonsg/React-Hooks.git",
-=======
-  "name": "react-counter",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:johnsonsg/React-Counter.git",
->>>>>>> 935a452a80ab6edd308c41ae8b94f173574a7340
   "author": "Shawn Johnson <johnson.sg@gmail.com>",
   "license": "MIT",
   "devDependencies": {

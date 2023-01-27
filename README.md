@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 # Creating Hooks
 
 Creating Hooks
-=======
-# Webpack-React-Boilerplate
-Setting Up Webpack with React!
->>>>>>> 935a452a80ab6edd308c41ae8b94f173574a7340
 
 ## What we are using
 
