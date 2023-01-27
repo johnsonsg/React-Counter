@@ -2,13 +2,12 @@ import React from 'react'
 import useCountState from './hooks/useCountState'
 
 export default function Counter() {
-  const [count, setCount] = React.useState(0)
-  // const [count, increment] = useCountState(0)
+  // Hook: [value, increment]
+  const [count, increment] = useCountState(0)
   return (
     <div>
-      Count: {count}
-      <button onClick={() => setCount(count + 1)}>Click to Count</button>
-      {/* <button onClick={increment}>Click to Add</button> */}
+      <h1>The Count is: {count}</h1>
+      <button onClick={increment}>Click to Count</button>
     </div>
   )
 }
