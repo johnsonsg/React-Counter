@@ -7,9 +7,9 @@ import Clicker from './Clicker'
 export default function app() {
   return (
     <div style={{ textAlign: 'center' }}>
-      <Counter />
+      {/* <Counter />
       <Toggler />
-      <Forms />
+      <Forms /> */}
       <Clicker />
     </div>
   )
