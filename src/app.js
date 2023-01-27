@@ -3,14 +3,17 @@ import Counter from './SimpleCounterHook'
 import Forms from './SimpleFormInputHook'
 import Toggler from './SimpleToggleHook'
 import Clicker from './Clicker'
+import SWMovies from './SWMovies'
+import './App.css'
 
 export default function app() {
   return (
-    <div style={{ textAlign: 'center' }}>
+    <div className='App'>
       {/* <Counter />
       <Toggler />
-      <Forms /> */}
-      <Clicker />
+      <Forms />
+      <Clicker />*/}
+      <SWMovies />
     </div>
   )
 }
